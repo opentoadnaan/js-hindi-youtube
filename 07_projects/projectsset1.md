@@ -243,3 +243,11 @@ document.querySelector('#stop').addEventListener('click', stopChangingColor);
 
 
 ```
+
+``` python
+ print("adnaan")
+ a=4
+ b=5
+ c=a+b
+ print(a+b)
+``` 
